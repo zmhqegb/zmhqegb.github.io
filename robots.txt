@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zmhqegb.github.io/sitemap.html.gz
+Sitemap: https://zmhqegb.github.io/app/sitemap.html.gz
+Sitemap: https://zmhqegb.github.io/assets/sitemap.html.gz
+Sitemap: https://zmhqegb.github.io/css/sitemap.html.gz
+Sitemap: https://zmhqegb.github.io/data/sitemap.html.gz
+Sitemap: https://zmhqegb.github.io/includes/sitemap.html.gz
+Sitemap: https://zmhqegb.github.io/item/sitemap.html.gz
+Sitemap: https://zmhqegb.github.io/src/sitemap.html.gz
